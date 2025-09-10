@@ -866,4 +866,13 @@ footer p{
 		font-size: 10px;
 	}
 
+
+}
+
+
+
+/*Fixing overflow and size*/
+
+#hero .container, #end .container{
+    width: unset;
 }
